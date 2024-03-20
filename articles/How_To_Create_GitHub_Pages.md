@@ -1,3 +1,7 @@
+---
+title: How To Create GitHub Pages
+---
+
 # How To Create GitHub Pages
 
 [GitHub Pages Documentation](https://docs.github.com/ja/pages)

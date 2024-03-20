@@ -4,4 +4,4 @@ description: Taiki Ogihara's Website
 collections:
   articles:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:title
