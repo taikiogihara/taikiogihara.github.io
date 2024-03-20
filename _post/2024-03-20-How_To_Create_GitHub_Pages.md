@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Create GitHub Pages
+title: "How To Create GitHub Pages"
 ---
 
 # How To Create GitHub Pages
