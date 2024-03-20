@@ -1,5 +1,21 @@
-theme: minima # https://github.com/jekyll/minima
 title: FIDO
-description: Taiki Ogihara's Website
+description: >
+  Taiki Ogihara's Website
 
+author:
+  name: Taiki Ogihara
+  email: taiki.ogihara@gmail  .com
 
+# theme: minima # https://github.com/jekyll/minima
+remote_theme: jekyll/minima
+
+minima:
+  # Minima skin selection.
+  # Available skins are:
+  # classic	           Default, light color scheme.
+  # dark	             Dark variant of the classic skin.
+  # auto	             Adaptive skin based on the default classic and dark skins.
+  # solarized-light	   Light variant of solarized color scheme.
+  # solarized-dark	   Dark variant of solarized color scheme.
+  # solarized	         Adaptive skin for solarized color scheme skins.
+  skin: dark
