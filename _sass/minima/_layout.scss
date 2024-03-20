@@ -22,6 +22,10 @@
     padding-right: 45px;
   }
 
+  .site-description {
+    @include relative-font-size(1);
+  }
+
   &,
   &:visited {
     color: $site-title-color;
