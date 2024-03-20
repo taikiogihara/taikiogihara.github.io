@@ -3,20 +3,11 @@ layout: default
 ---
 <!-- 
 <h1>FIDO</h1>
-
-<p>Taiki Ogihara's Website</p>
 -->
 
-<h1>Posts</h1>
-<ul>
-    {% for post in site.posts %}
-    <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-</ul>
+<p>Taiki Ogihara's Website</p>
 
-<h1>Pages</h1>
+<!-- <h1>Pages</h1>
 <ul>
     {% for page in site.pages %}
     {% if page.url contains '.html' %}
@@ -25,21 +16,18 @@ layout: default
     </li>
     {% endif %}
     {% endfor %}
-</ul>
+</ul> -->
 
-<h1>Tags</h1>
+<!-- <h1>Posts</h1>
 <ul>
-    {% for tag in site.tags %}
-    <h3>{{ tag[0] }}</h3>
-    <ul>
-        {% for post in tag[1] %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
+    {% for post in site.posts %}
+    <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
     {% endfor %}
-</ul>
+</ul> -->
 
-<h1>Categories</h1>
+<!-- <h1>Categories</h1>
 <ul>
     {% for category in site.categories %}
     <h3>{{ category[0] }}</h3>
@@ -49,4 +37,16 @@ layout: default
         {% endfor %}
     </ul>
     {% endfor %}
-</ul>
+</ul> -->
+
+<!-- <h1>Tags</h1>
+<ul>
+    {% for tag in site.tags %}
+    <h3>{{ tag[0] }}</h3>
+    <ul>
+        {% for post in tag[1] %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+</ul> -->
