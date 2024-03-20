@@ -2,12 +2,5 @@
 
 [GitHub Pages Documentation](https://docs.github.com/ja/pages)
 
+[Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
 
-
-## Create New Repository
-
-In [GitHub](https://github.com/), create the new repository with the repository name: `username.github.io` .
-
-# Setting for Pages
-
-Click the repository Setting tab, 
