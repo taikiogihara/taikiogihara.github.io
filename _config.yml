@@ -1,7 +1,8 @@
-# theme: jekyll-theme-minimal
+theme: minima
 title: FIDO
 description: Taiki Ogihara's Website
+
 collections:
   articles:
     output: true
-    permalink: /:collection/:title
+    permalink: /:title
