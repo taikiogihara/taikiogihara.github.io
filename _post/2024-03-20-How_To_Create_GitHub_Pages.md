@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How To Create GitHub Pages
 ---
 
