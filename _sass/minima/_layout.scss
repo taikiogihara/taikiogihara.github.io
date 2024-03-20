@@ -148,7 +148,8 @@
 }
 
 .footer-col {
-  margin-bottom: $spacing-unit * .1;
+  flex: 1;
+  margin-bottom: $spacing-unit * .5;
 }
 
 .footer-col-1,
