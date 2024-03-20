@@ -123,7 +123,7 @@
  */
 .site-footer {
   border-top: 1px solid $border-color-01;
-  padding: $spacing-unit 0;
+  padding: $spacing-unit * .1 0;
 }
 
 .footer-heading {
@@ -148,7 +148,6 @@
 }
 
 .footer-col {
-  flex: 1;
   margin-bottom: $spacing-unit * .5;
 }
 
