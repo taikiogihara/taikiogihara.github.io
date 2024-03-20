@@ -6,8 +6,11 @@ author:
   name: Taiki Ogihara
   email: taiki.ogihara@gmail  .com
 
-# theme: minima # https://github.com/jekyll/minima
-remote_theme: jekyll/minima
+header_pages:
+  - CV.md
+
+theme: minima # https://github.com/jekyll/minima
+# remote_theme: jekyll/minima
 
 minima:
   # Minima skin selection.
