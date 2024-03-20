@@ -1,18 +1,17 @@
 # CV
 
-Ph.D. of Science
-in the discipline of Astronomy in Tohoku University
+Ph.D. of Science in the discipline of Astronomy in Tohoku University
 
 Research Interests:
-Dymamics of Relativistic Jets of Active Galactic Nuclei
-Black Holes Astrophysics
-Plasma Physics
-Radiation Processes
 
-Affiliation:
-Center for Computational Sciences, University of Tsukuba, Japan [Link](https://www.ccs.tsukuba.ac.jp/)
+- Machine Learning
+- Graph Network
+- Dymamics of Relativistic Jets of Active Galactic Nuclei
+- Black Holes Astrophysics
+- Plasma Physics
+- Radiation Processes
 
-## History
+## Affiliation
 
 - April 2022 - Consultant, IT company (Tokyo, Japan)
 - April 2021 - March 2022, Postdoc, Center for Computational Sciences, University of Tsukuba (Japan)
