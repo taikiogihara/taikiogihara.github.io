@@ -8,7 +8,17 @@ author:
 
 header_pages:
   - CV.md
-  - Projects
+  - Projects/Projects.md
+  - Collections/Collections.md
+
+collections:
+  projects:
+    output: true
+    # sort_by: # 指定したfront matterで並び替え。デフォルトはパス名
+    # order: # 手動並び替え
+    #   - num1.md    
+    #   - num2.md    
+    #   - num3.md    
 
 theme: minima # https://github.com/jekyll/minima
 # remote_theme: jekyll/minima
