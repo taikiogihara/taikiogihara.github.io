@@ -14,6 +14,6 @@ Taiki Ogihara’s Website
 
 # Posts
 
-{% for article in site.articles %} 
+{% for post in site.posts %} 
 - [{{ post.title }}]({{ post.url}}) 
 {% endfor %}
